@@ -5,7 +5,7 @@
 2023년 9월 8일
 
 # 예제 소스
-준비중
+https://github.com/efficientgo/examples
 
 # 정오표 
 Errata 파일을 다운로드하면 정오표를 확인할 수 있습니다. 
